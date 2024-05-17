@@ -8,11 +8,11 @@
                             <h1>Login</h1>
                             <div class="mb-3">
                                 <label for="email" class="form-label">Email address</label>
-                                <input value="supa@gmail.com" type="email" name="email" class="form-control" id="email" required>
+                                <input type="email" name="email" class="form-control" id="email" required>
                             </div>
                             <div class="mb-3">
                                 <label for="password" class="form-label">Password</label>
-                                <input value="123123123" type="password" name="password" class="form-control" id="password" required>
+                                <input type="password" name="password" class="form-control" id="password" required>
                             </div>
                             <button type="submit" class="btn btn-dark rounded-0 auth-btn">login</button>
                         </form>
